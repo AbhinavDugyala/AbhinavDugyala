@@ -1,6 +1,6 @@
 
 <h1 align="center" display="flex">Welcome to Abhinav Dugyala's profile! <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" height=100px width=120px></h1>
-<h3 align="center">A passionate python Developer and Web developer from India...</h3>
+<h3 align="center">A passionate python and Web Developer from India...</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhinavdugyala&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavdugyala" /></p>
