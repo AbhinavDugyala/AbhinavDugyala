@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **dugyalaabhinav95@gmail.com**
 
-- 📄 Know about my experiences <a href="olive-calla-44.tiiny.site">Reume</a>
+- 📄 Know about my experiences <a href="https://olive-calla-44.tiiny.site/">Reume</a>
 - 💪 This is where I write, code and solve problems:
 - <a href="https://www.hackerrank.com/dugyalaabhinav95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dugyalaabhinav95" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhinavdugyala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinavdugyala" height="30" width="40" /></a>
