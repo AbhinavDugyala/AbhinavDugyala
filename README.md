@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms using Pyhton..**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/AbhinavDugyala">Github.</a>
+- 👨‍💻 All of my projects are available at <a href="https://pink-ilka-2.tiiny.site">Github.</a>
 
 - 💬 Ask me about **anything, Iam happy to help.**
 
